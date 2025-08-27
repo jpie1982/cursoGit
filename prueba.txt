@@ -1,1 +1,1 @@
-Hola este es un archivo de texto
+Hola este es un archivo de texto, que tiene ya un commit  y es autor mio
